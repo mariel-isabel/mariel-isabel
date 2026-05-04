@@ -2,8 +2,6 @@
 
 I'm a first-year computer science student who enjoys coding and learning new technologies as a hobby. <br>
 I've created a few simple projects to practice my skills. <br>
-
-current tech stack: HTML, CSS, Python, C, Haskell, JavaScript
 <!--
 **mariel-isabel/mariel-isabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
